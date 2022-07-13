@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add item 2</name>
+   <tag></tag>
+   <elementGuidId>6d85c126-72ea-4e34-99a9-3d12d109d716</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div[2]/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-238.status-publish.instock.product_cat-uncategorized.has-post-thumbnail.sale.shipping-taxable.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.buttons > a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cfc7c20d-c14d-4cf1-9e3b-5164a4e2bab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?add-to-cart=238</value>
+      <webElementGuid>c9d838ed-eb6f-4ee7-a713-790b3156bd65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quantity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>90ee9e61-8b91-4a4b-ab5d-5632f614728e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
+      <webElementGuid>c504db0a-2c59-4548-ad05-9d016e9f960e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_id</name>
+      <type>Main</type>
+      <value>238</value>
+      <webElementGuid>d9e92e43-4c18-44f6-aaf4-4e6ee2c6342f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_sku</name>
+      <type>Main</type>
+      <value>woo-beanie</value>
+      <webElementGuid>c477431d-d46d-4496-8386-312fde22fe4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add “Beanie” to your cart</value>
+      <webElementGuid>71b90955-0943-48c2-baea-fd46f108b82a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>9e977e86-4459-436f-af6f-63fdfed50f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>7c85ee4c-d5e2-4971-9410-6a9940ba8cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-238 status-publish instock product_cat-uncategorized has-post-thumbnail sale shipping-taxable purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
+      <webElementGuid>ea99c6c8-4fb8-4104-a039-8c13f2610d84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div[2]/div[2]/a[2]</value>
+      <webElementGuid>0676f081-02a3-4f52-a63f-d22f7fdc882c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[2]/following::a[1]</value>
+      <webElementGuid>dc5c69d2-048a-494b-b3a8-7652ba0e0e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[10]/following::a[2]</value>
+      <webElementGuid>8ad048d5-572f-47c0-911d-933c6bb62fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[2]/preceding::a[1]</value>
+      <webElementGuid>28560c59-fe1a-48f1-bd6f-958571b88c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '?add-to-cart=238')]</value>
+      <webElementGuid>6bb4c2a4-4a4f-4880-bc12-46980dc32553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[2]/div[2]/a[2]</value>
+      <webElementGuid>e0d1c4f0-c321-45a8-a776-9cc33811fd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?add-to-cart=238' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>7c0ddb8c-f7ac-4921-ab5c-9e41eefd9d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

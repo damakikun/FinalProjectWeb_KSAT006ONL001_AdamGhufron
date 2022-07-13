@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Process to checkout with empty data but with if-else condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed38818d-d233-4e32-b601-821595c88e6c</testCaseGuid>
+</TestCaseEntity>
