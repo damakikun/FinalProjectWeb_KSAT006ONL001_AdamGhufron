@@ -35,6 +35,3 @@ Program ini bertujuan untuk melakukan Web Testing Automation menggunakan Katalon
 - Login<br>
 - Shopping<br>
 - Register<br>
-
-## APK
-`Ecommerce-SAMPLE-Android.apk`
