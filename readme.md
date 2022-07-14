@@ -6,7 +6,7 @@ Link Github : https://github.com/damakikun </h4>
 
 ## Final Project Web - Web Testing Automation with Katalon
 
-Program ini bertujuan untuk melakukan Web Testing Automation menggunakan Katalon. Untuk Web yang akan dilakukan testing adalah `https://reqres.in/`
+Program ini bertujuan untuk melakukan Web Testing Automation menggunakan Katalon. Untuk Web yang akan dilakukan testing adalah `https://kotakoki.wijaysali.my.id/`
 
 ## Test Case <br>
 
